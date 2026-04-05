@@ -1,0 +1,38 @@
+<html  style="background-color:black;">
+<header style="background-color:black; height: 140px">
+<h1 style="color:yellow; font-size: 50px"> <img src="assets/noob.png" style="height: 100px"> киноnoob <i style="color:white; font-size: 30px">- не лучший сайт про кино!</i></h1>
+</header>
+<main style="background-color:grey; width:100%; height:1950px">
+  <h1 style="text-align:center; font-size: 40px"> <br> Название Фильма <br> <img src="assets/Без названия.jfif" width="350px"></h1>
+  <h1 style="font-size: 40px"> <br> О фильме </h1>
+  <table style="border: 2px solid black; font-size: 35px; border-collapse:collapse">
+    <tr>
+      <td style="border: 2px solid black;"> <b>Год производства </b></td>
+      <td style="border: 2px solid black;"> 2017 </td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black;"><b> Режиссёр </b></td>
+      <td style="border: 2px solid black;"> Дмитрий Дьяченко </td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black;"><b>Страна</b></td>
+      <td style="border: 2px solid black;"> Россия </td>
+    </tr>
+     <tr>
+      <td style="border: 2px solid black;"><b>Жанр</b></td>
+      <td style="border: 2px solid black;"> 
+фэнтези, комедия, приключения, семейный </td>
+    </tr>
+  </table>
+  <h1 style="font-size: 40px"> Оценка</h1>
+	<h1><b style="color:green; font-size: 80px">7.2</b> / 10 </h1>
+  <h1 style="font-size: 40px"> Описание</h1>
+	<p style="font-size: 30px"> Победитель 5-го сезона «Битвы магов» белый маг Святозар, а на самом деле — обычный парень Иван, привычно пудрит мозги телезрителям и доверчивым клиентам, готовым поверить во что угодно. Однажды, спасаясь бегством от крепких охранников мужа очередной одураченной им домохозяйки, парень внезапно переносится из Москвы в сказочную страну Белогорье. А встреченный там старец объявляет Ивану, что тот — сын Ильи Муромца, и только он может их спасти. Так наш «белый маг» оказывается в эпицентре противостояния волшебных сил добра и зла, вот только сам парень уверен, что он тут совершенно ни при чём, и всё это — какая-то нелепая ошибка. </p>
+  </main>
+<footer style="background-color:orange; height: 120px; text-align:center; color:white ">
+  <h2>Автор сайта: <i> Квел </i></h2>
+  <h3>2026г.</h3>
+</footer>
+</html>
+
+
